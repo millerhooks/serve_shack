@@ -1,0 +1,5 @@
+*.pyc
+.AppleDouble
+test.db
+local_settings.py
+.idea
